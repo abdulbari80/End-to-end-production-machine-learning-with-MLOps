@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/my-ml-project/aws/mlruns/525761765294600117/b1302f8deecb479a86aea03cd60bf178/artifacts
+end_time: 1762135227171
+entry_point_name: ''
+experiment_id: '525761765294600117'
+lifecycle_stage: active
+run_id: b1302f8deecb479a86aea03cd60bf178
+run_name: rf_v7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762135221029
+status: 3
+tags: []
+user_id: abdul

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/525761765294600117/models/m-848fdbbacbd9467788be39afb5d82bca/artifacts
+creation_timestamp: 1762135214220
+experiment_id: '525761765294600117'
+last_updated_timestamp: 1762135220948
+model_id: m-848fdbbacbd9467788be39afb5d82bca
+model_type: ''
+name: cat_v7
+source_run_id: 403c40cb2cee424ebeeeda19017f1b41
+status: 2
+status_message: null

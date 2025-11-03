@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/my-ml-project/aws/mlruns/983039871352709067/082f978f30234aafaf3d01c209e680a6/artifacts
+end_time: 1761596338111
+entry_point_name: ''
+experiment_id: '983039871352709067'
+lifecycle_stage: active
+run_id: 082f978f30234aafaf3d01c209e680a6
+run_name: ridge_v6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761596332472
+status: 3
+tags: []
+user_id: abdul

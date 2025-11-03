@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/983039871352709067/models/m-534d83e635ce4bcbb63c31ebfe9407ce/artifacts
+creation_timestamp: 1761596332712
+experiment_id: '983039871352709067'
+last_updated_timestamp: 1761596338085
+model_id: m-534d83e635ce4bcbb63c31ebfe9407ce
+model_type: ''
+name: ridge_v6
+source_run_id: 082f978f30234aafaf3d01c209e680a6
+status: 2
+status_message: null

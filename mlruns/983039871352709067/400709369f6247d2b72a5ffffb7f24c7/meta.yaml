@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/my-ml-project/aws/mlruns/983039871352709067/400709369f6247d2b72a5ffffb7f24c7/artifacts
+end_time: 1761595715399
+entry_point_name: ''
+experiment_id: '983039871352709067'
+lifecycle_stage: active
+run_id: 400709369f6247d2b72a5ffffb7f24c7
+run_name: lasso_v6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761595709486
+status: 3
+tags: []
+user_id: abdul

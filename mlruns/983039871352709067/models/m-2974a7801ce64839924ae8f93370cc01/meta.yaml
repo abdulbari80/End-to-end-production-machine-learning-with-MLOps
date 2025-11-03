@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/983039871352709067/models/m-2974a7801ce64839924ae8f93370cc01/artifacts
+creation_timestamp: 1761545182184
+experiment_id: '983039871352709067'
+last_updated_timestamp: 1761545187759
+model_id: m-2974a7801ce64839924ae8f93370cc01
+model_type: ''
+name: lasso_v5
+source_run_id: 421e10e3f4d44270b66314b643ec9abf
+status: 2
+status_message: null

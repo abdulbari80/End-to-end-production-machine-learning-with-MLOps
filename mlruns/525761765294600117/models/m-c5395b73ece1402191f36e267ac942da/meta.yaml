@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/525761765294600117/models/m-c5395b73ece1402191f36e267ac942da/artifacts
+creation_timestamp: 1762135233516
+experiment_id: '525761765294600117'
+last_updated_timestamp: 1762135239048
+model_id: m-c5395b73ece1402191f36e267ac942da
+model_type: ''
+name: enet_v7
+source_run_id: 1bca222e364a413892f6d52468d70dc4
+status: 2
+status_message: null

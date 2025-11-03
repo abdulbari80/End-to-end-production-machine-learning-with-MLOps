@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/525761765294600117/models/m-892e0312568d44988aefec7bf8a2e4a8/artifacts
+creation_timestamp: 1762137468016
+experiment_id: '525761765294600117'
+last_updated_timestamp: 1762137473711
+model_id: m-892e0312568d44988aefec7bf8a2e4a8
+model_type: ''
+name: rf_v8
+source_run_id: 9183e7d071e247c8adb61dc1c87c487a
+status: 2
+status_message: null

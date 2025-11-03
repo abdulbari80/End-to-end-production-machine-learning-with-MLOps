@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/my-ml-project/aws/mlruns/525761765294600117/e556109c5e8e40e4b6712a0e019aaeac/artifacts
+end_time: 1762135213881
+entry_point_name: ''
+experiment_id: '525761765294600117'
+lifecycle_stage: active
+run_id: e556109c5e8e40e4b6712a0e019aaeac
+run_name: xgb_v7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762135203037
+status: 3
+tags: []
+user_id: abdul

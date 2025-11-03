@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/983039871352709067/models/m-2414ebce8e4d4ebf9cb83b81f9077569/artifacts
+creation_timestamp: 1761595703607
+experiment_id: '983039871352709067'
+last_updated_timestamp: 1761595709406
+model_id: m-2414ebce8e4d4ebf9cb83b81f9077569
+model_type: ''
+name: gbr_v6
+source_run_id: 70575935a7f64efca03c2e27c60101af
+status: 2
+status_message: null

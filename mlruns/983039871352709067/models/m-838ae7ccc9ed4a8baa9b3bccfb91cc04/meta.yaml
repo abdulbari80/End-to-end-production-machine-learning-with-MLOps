@@ -1,0 +1,10 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/983039871352709067/models/m-838ae7ccc9ed4a8baa9b3bccfb91cc04/artifacts
+creation_timestamp: 1761545188093
+experiment_id: '983039871352709067'
+last_updated_timestamp: 1761545194788
+model_id: m-838ae7ccc9ed4a8baa9b3bccfb91cc04
+model_type: ''
+name: xgb_v5
+source_run_id: e9c285f1b6ae4213b009cc6362016afe
+status: 2
+status_message: null

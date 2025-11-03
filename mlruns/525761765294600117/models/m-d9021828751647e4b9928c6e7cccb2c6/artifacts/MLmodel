@@ -1,0 +1,22 @@
+artifact_path: file:///C:/my-ml-project/aws/mlruns/525761765294600117/models/m-d9021828751647e4b9928c6e7cccb2c6/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.11
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.4.0
+model_id: m-d9021828751647e4b9928c6e7cccb2c6
+model_size_bytes: 116291
+model_uuid: m-d9021828751647e4b9928c6e7cccb2c6
+prompts: null
+run_id: e556109c5e8e40e4b6712a0e019aaeac
+utc_time_created: '2025-11-03 02:00:03.789999'

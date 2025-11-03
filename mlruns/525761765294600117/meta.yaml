@@ -1,0 +1,6 @@
+artifact_location: file:///C:/my-ml-project/aws/mlruns/525761765294600117
+creation_time: 1762135094021
+experiment_id: '525761765294600117'
+last_update_time: 1762135094021
+lifecycle_stage: active
+name: ds-salary-2023-prediction
