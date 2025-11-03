@@ -1,639 +1,384 @@
-experience_level,employment_type,remote_ratio,company_size,job_category,inflation_adj_salary,employee_residence_top,company_location_top
-Senior,Full-time,0,Medium,AI/ML Researcher,148895,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,239946,Canada,Canada
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,90110,Canada,Canada
-Senior,Full-time,0,Medium,Data Analyst,214238,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,143767,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,110929,France,France
-Senior,Full-time,100,Small,Data Analyst,60563,Other,Other
-Mid/Intermediate level,Full-time,100,Medium,Data Architect,171390,United States,United States
-Mid/Intermediate level,Full-time,50,Large,BI Analyst,52848,Australia,Australia
-Senior,Full-time,0,Medium,Data Engineer,171390,United States,United States
-Senior,Full-time,0,Large,Data Scientist,234616,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,246373,United States,United States
-Entry level,Full-time,100,Small,Data Analyst,15040,Other,Other
-Senior,Full-time,0,Medium,Data Engineer,278509,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,236733,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,121337,United Kingdom,United Kingdom
-Senior,Full-time,100,Medium,DS/AI Executive,145350,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,167749,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,224950,United States,United States
-Senior,Full-time,100,Medium,DS/AI Executive,202570,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,80923,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Engineer,187458,United States,United States
-Senior,Full-time,100,Large,DS/AI Executive,144611,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,191315,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,224950,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,203526,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,107119,United States,United States
-Mid/Intermediate level,Full-time,50,Small,Data Engineer,77033,Germany,Germany
-Senior,Full-time,0,Medium,Data Engineer,237251,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,72223,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,DS/AI Executive,288365,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,193200,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,51251,United Kingdom,United Kingdom
-Senior,Full-time,100,Medium,Data Analyst,128543,United States,United States
-Senior,Full-time,100,Medium,DS/AI Executive,247712,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,87302,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,133363,United States,United States
-Mid/Intermediate level,Full-time,50,Large,BI Analyst,44024,Other,United States
-Senior,Full-time,0,Medium,DS/AI Executive,69627,Other,Other
-Mid/Intermediate level,Full-time,100,Large,Data Engineer,109012,United States,United States
-Senior,Full-time,50,Large,Data Management,144886,Canada,Canada
-Senior,Full-time,100,Medium,Data Architect,125329,United States,United States
-Mid/Intermediate level,Full-time,50,Large,Data Scientist,27457,Other,Other
-Entry level,Full-time,0,Medium,Data Scientist,49385,France,France
-Entry level,Full-time,100,Large,Data Analyst,173533,United States,United States
-Entry level,Full-time,50,Large,AI/ML Researcher,77650,Germany,Germany
-Senior,Full-time,100,Medium,Data Engineer,144611,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,138827,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,156517,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,150395,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,158487,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,179960,United States,United States
-Entry level,Full-time,100,Medium,DS/AI Executive,89427,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,148788,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,171390,United States,United States
-Senior,Full-time,0,Large,Data Scientist,115688,United States,United States
-Senior,Full-time,100,Large,Data Architect,226055,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,115688,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,241018,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,88229,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,238318,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,109904,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,143539,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,111404,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,121472,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,222860,United States,United States
-Senior,Full-time,50,Large,Data Engineer,116902,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,100,Medium,AI Engineer,57778,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,0,Large,Data Analyst,75097,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,AI/ML Researcher,150395,United States,United States
-Mid/Intermediate level,Full-time,0,Small,DS/AI Executive,133239,United States,United States
-Senior,Full-time,0,Medium,AI Engineer,299933,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,213677,United States,United States
-Executive level,Full-time,0,Medium,Data Engineer,251729,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,214238,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,146345,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,207435,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,168905,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,BI Analyst,10896,Other,Brazil
-Senior,Full-time,0,Medium,Data Engineer,156180,United States,United States
-Entry level,Full-time,50,Large,Data Analyst,53559,Other,United States
-Entry level,Full-time,0,Medium,Data Analyst,60158,Canada,Canada
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,57778,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Engineer,289974,United States,United States
-Entry level,Full-time,100,Large,Data Engineer,92550,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,121704,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,149431,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,221515,United States,United States
-Entry level,Part-time,50,Small,AI Engineer,34736,Other,Other
-Mid/Intermediate level,Full-time,50,Medium,Data Scientist,67890,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Scientist,159688,United States,United States
-Entry level,Full-time,50,Large,Data Scientist,70253,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,107897,United Kingdom,United Kingdom
-Entry level,Full-time,0,Medium,Data Scientist,86234,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,134123,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,219594,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,79131,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,286329,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,173533,United States,United States
-Mid/Intermediate level,Full-time,0,Large,Data Scientist,140967,Other,Other
-Mid/Intermediate level,Full-time,100,Medium,DS/AI Executive,155023,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,179317,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,195491,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,48612,Other,Other
-Senior,Full-time,0,Large,Data Engineer,185102,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,75197,United States,United States
-Executive level,Full-time,100,Medium,Data Analyst,127257,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,130149,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,51417,Other,Other
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,267797,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,104490,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,44371,Spain,Spain
-Senior,Full-time,100,Medium,Data Engineer,137779,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,DS/AI Executive,80958,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,64063,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,94410,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,133899,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,55530,Other,Brazil
-Senior,Full-time,100,Medium,Data Engineer,145767,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,46837,Spain,Spain
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,129571,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,300683,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,137647,United States,United States
-Entry level,Part-time,100,Large,Data Analyst,19732,Other,India
-Entry level,Full-time,50,Large,Data Scientist,77502,Germany,Germany
-Entry level,Full-time,0,Medium,Data Analyst,55530,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,83553,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,220237,United States,United States
-Entry level,Full-time,0,Medium,ML Engineer,162253,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,236195,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,115688,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,235662,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,192814,United States,United States
-Entry level,Full-time,100,Large,Data Scientist,92550,United States,United States
-Senior,Full-time,100,Medium,Data Architect,157336,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,214238,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,110540,United States,United States
-Entry level,Full-time,0,Medium,ML Engineer,174814,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,273025,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,160678,United States,United States
-Senior,Full-time,50,Large,Data Scientist,24491,Other,Other
-Senior,Full-time,100,Medium,Data Scientist,164278,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,148664,United States,United States
-Senior,Full-time,100,Large,Data Architect,151899,United States,United States
-Entry level,Full-time,0,Medium,Data Engineer,75197,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,100604,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,96407,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,104119,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,175847,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,77126,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,144611,United States,United States
-Entry level,Full-time,50,Medium,ML Engineer,47638,Germany,Germany
-Mid/Intermediate level,Full-time,0,Medium,BI Analyst,116451,United States,United States
-Entry level,Full-time,100,Small,Data Scientist,128707,United States,United States
-Mid/Intermediate level,Full-time,100,Small,Data Scientist,31000,Other,Germany
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,91051,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,118742,United States,United States
-Mid/Intermediate level,Full-time,0,Small,Data Analyst,24515,Other,Other
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,69413,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,318143,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,283552,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,107119,United States,United States
-Senior,Full-time,0,Medium,BI Analyst,133899,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,154559,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Analyst,166034,United States,United States
-Entry level,Full-time,50,Medium,ML Engineer,30139,Germany,Germany
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,186258,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,147289,United States,United States
-Executive level,Full-time,0,Medium,DS/AI Executive,177894,United Kingdom,United Kingdom
-Executive level,Full-time,0,Medium,Data Engineer,123187,United States,United States
-Senior,Full-time,100,Small,Data Scientist,138827,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,101763,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,127471,United States,United States
-Senior,Full-time,50,Large,Data Scientist,104764,France,France
-Senior,Full-time,0,Medium,Data Analyst,94478,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,155322,United States,United States
-Entry level,Full-time,0,Medium,BI Analyst,107119,United States,United States
-Executive level,Full-time,0,Medium,Data Analyst,18386,Other,Canada
-Entry level,Full-time,100,Small,Data Scientist,93288,Germany,Germany
-Executive level,Full-time,0,Medium,Data Engineer,155322,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,181245,Spain,Spain
-Entry level,Full-time,0,Large,Data Scientist,94865,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,210553,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,185102,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,123187,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,76417,France,France
-Senior,Full-time,100,Medium,DS/AI Executive,128543,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,134872,United Kingdom,United Kingdom
-Senior,Full-time,100,Medium,Data Engineer,133041,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,144611,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,236121,United States,United States
-Entry level,Full-time,50,Large,Data Scientist,235662,United States,United States
-Mid/Intermediate level,Full-time,100,Large,AI Engineer,231377,India,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,86668,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,ML Engineer,286329,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,254515,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,109796,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,185316,United States,United States
-Senior,Full-time,100,Large,AI Engineer,66620,Spain,Spain
-Entry level,Full-time,100,Large,Data Analyst,111547,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,184753,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,249886,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,177550,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,100692,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,73839,Spain,Spain
-Senior,Full-time,100,Medium,Data Scientist,120316,United States,United States
-Mid/Intermediate level,Full-time,0,Large,Data Scientist,72720,Other,Other
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,173533,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,92550,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,150395,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,AI/ML Researcher,277652,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,286329,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,196671,United States,United States
-Mid/Intermediate level,Full-time,100,Small,Data Scientist,88743,Germany,Germany
-Mid/Intermediate level,Full-time,50,Large,Data Analyst,9806,Other,Other
-Mid/Intermediate level,Full-time,50,Large,Data Scientist,59547,Other,Other
-Senior,Full-time,100,Medium,ML Engineer,172144,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,62472,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,65001,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Engineer,151681,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,194956,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,100692,United States,United States
-Senior,Full-time,100,Large,Data Scientist,208239,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,126101,United States,United States
-Entry level,Full-time,0,Medium,Data Scientist,160678,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,137669,United States,United States
-Entry level,Full-time,100,Large,Data Scientist,59924,Canada,Canada
-Executive level,Full-time,100,Medium,DS/AI Executive,259142,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,DS/AI Executive,235662,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,149966,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,143046,United States,United States
-Senior,Full-time,0,Medium,AI/ML Researcher,166945,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,277438,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,191349,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,213167,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,114647,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,231492,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,91051,United States,United States
-Mid/Intermediate level,Full-time,100,Small,BI Analyst,59162,Germany,Germany
-Executive level,Full-time,0,Medium,Data Engineer,283865,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,162253,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,234054,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,90237,Other,Brazil
-Senior,Full-time,0,Medium,AI/ML Researcher,187458,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,182102,United States,United States
-Executive level,Full-time,0,Medium,Data Engineer,231377,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,93193,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,172144,United States,United States
-Executive level,Full-time,0,Large,DS/AI Executive,172224,Germany,Germany
-Senior,Full-time,100,Large,AI Engineer,144611,Other,Other
-Senior,Full-time,100,Medium,Data Engineer,198170,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,107119,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,149094,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Engineer,55112,Other,Other
-Senior,Full-time,100,Medium,Data Analyst,182692,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,141834,United States,United States
-Entry level,Part-time,50,Medium,Data Scientist,115688,Other,Other
-Senior,Full-time,100,Medium,Data Analyst,70917,Canada,Canada
-Senior,Full-time,0,Medium,Data Scientist,184245,United States,United States
-Entry level,Full-time,100,Medium,AI Engineer,11569,Other,Other
-Senior,Full-time,0,Large,Data Scientist,138017,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,127257,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,176746,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,164320,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,169137,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,283865,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,160678,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,289221,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,160678,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,34706,Other,Other
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,89322,Other,Other
-Entry level,Full-time,100,Large,Data Scientist,86506,Canada,Canada
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,35807,India,India
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,160250,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,215309,United States,United States
-Senior,Full-time,0,Medium,Data Management,77126,Canada,Canada
-Executive level,Full-time,0,Medium,Data Engineer,167749,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,243160,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,219808,United States,United States
-Senior,Full-time,100,Large,Data Engineer,152824,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Management,85695,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,117831,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,185316,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,152709,Canada,Canada
-Senior,Full-time,0,Large,Data Engineer,122282,United States,United States
-Senior,Full-time,50,Large,DS/AI Executive,114939,India,India
-Senior,Full-time,0,Medium,AI/ML Researcher,173533,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,217451,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,163785,United States,United States
-Senior,Full-time,0,Medium,AI/ML Researcher,217451,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,139520,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,75197,Canada,Canada
-Mid/Intermediate level,Full-time,0,Medium,DS/AI Executive,111939,United States,United States
-Entry level,Full-time,0,Medium,Data Scientist,92550,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,144611,United States,United States
-Mid/Intermediate level,Contractor,50,Medium,Data Engineer,8677,Other,Other
-Senior,Full-time,100,Medium,Data Engineer,185193,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,148628,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,156180,Other,Other
-Senior,Full-time,100,Small,Data Engineer,55530,Other,United States
-Entry level,Full-time,50,Large,Data Scientist,44491,France,France
-Senior,Full-time,0,Medium,Data Engineer,254641,United States,United States
-Entry level,Full-time,50,Medium,Data Scientist,57844,Other,Other
-Entry level,Full-time,100,Medium,Data Scientist,53559,India,United States
-Senior,Full-time,100,Medium,Data Architect,308194,United States,United States
-Entry level,Full-time,0,Medium,AI Engineer,71457,Germany,Germany
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,135266,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,224950,United States,United States
-Entry level,Full-time,100,Large,Data Engineer,149238,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,87479,United States,United States
-Entry level,Full-time,100,Large,Data Analyst,107119,Other,United States
-Senior,Full-time,0,Medium,ML Engineer,232533,United States,United States
-Entry level,Full-time,100,Large,ML Engineer,34706,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Scientist,100692,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,242946,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,46512,Other,United States
-Senior,Full-time,100,Medium,ML Engineer,215180,United States,United States
-Senior,Full-time,0,Large,Data Engineer,178791,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,AI Engineer,107119,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,114647,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,69627,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,133041,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,100605,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,107119,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,85695,United States,United States
-Senior,Full-time,0,Medium,AI Engineer,251729,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,123187,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,128328,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,AI/ML Researcher,246373,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,114081,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,227584,Canada,Canada
-Senior,Full-time,100,Large,DS/AI Executive,211710,United States,United States
-Senior,Full-time,100,Small,Data Analyst,139295,United States,United States
-Senior,Full-time,100,Small,Data Analyst,96901,Other,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,214238,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,157336,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,135356,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,187458,Canada,Canada
-Senior,Full-time,100,Medium,ML Engineer,227306,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,45926,Spain,Spain
-Senior,Full-time,100,Medium,Data Engineer,122116,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,133041,United States,United States
-Senior,Full-time,100,Medium,Data Architect,170988,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,267797,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,167749,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,150395,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,223279,Spain,United States
-Senior,Full-time,100,Medium,Data Engineer,254515,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Analyst,112648,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,229572,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,197099,United States,United States
-Senior,Full-time,0,Large,ML Engineer,144074,United States,United States
-Senior,Full-time,100,Medium,Data Architect,122009,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,79298,Canada,Canada
-Senior,Full-time,50,Large,ML Engineer,183870,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,26377,Other,Other
-Senior,Full-time,0,Medium,ML Engineer,155322,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,135356,United States,United States
-Senior,Full-time,0,Medium,Data Management,96407,Canada,Canada
-Senior,Full-time,100,Medium,Data Architect,208239,United States,United States
-Mid/Intermediate level,Full-time,50,Large,Data Analyst,20242,India,India
-Senior,Full-time,0,Medium,Data Analyst,134542,United States,United States
-Executive level,Full-time,100,Large,Data Management,284646,United States,United States
-Entry level,Part-time,100,Large,Data Analyst,29581,Spain,United States
-Senior,Full-time,100,Medium,Data Engineer,208239,United States,United States
-Entry level,Part-time,50,Large,AI Engineer,23158,Other,Other
-Senior,Full-time,100,Medium,Data Engineer,160678,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,139255,United States,United States
-Entry level,Full-time,0,Medium,Data Engineer,96407,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,108400,United States,United States
-Entry level,Full-time,0,Large,Data Engineer,12854,Other,Other
-Senior,Full-time,100,Medium,Data Architect,201919,United States,United States
-Mid/Intermediate level,Full-time,0,Large,Data Analyst,72841,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,248730,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,225539,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,126257,United States,United States
-Entry level,Full-time,100,Small,AI Engineer,21920,India,Other
-Senior,Full-time,100,Medium,Data Architect,212095,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,208239,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,223289,United States,United States
-Senior,Full-time,0,Large,Data Scientist,77126,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,174068,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,231377,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,136512,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,130257,United States,United States
-Mid/Intermediate level,Freelancer,100,Small,ML Engineer,35807,India,India
-Senior,Full-time,0,Medium,Data Engineer,197827,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,181168,United States,United States
-Senior,Full-time,100,Large,DS/AI Executive,184112,United States,France
-Senior,Full-time,100,Medium,Data Scientist,209953,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,122781,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,68645,Other,United States
-Senior,Full-time,100,Medium,Data Engineer,158487,United States,United States
-Mid/Intermediate level,Full-time,100,Large,ML Engineer,171798,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,152709,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,75823,Australia,Other
-Senior,Full-time,0,Medium,Data Analyst,74983,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,115688,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,104490,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,187458,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,156287,Canada,Canada
-Mid/Intermediate level,Full-time,50,Large,DS/AI Executive,104764,Other,Other
-Senior,Full-time,0,Medium,Data Engineer,86766,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,257085,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,193315,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Analyst,163520,United States,United States
-Senior,Full-time,0,Medium,BI Analyst,117831,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,123187,United States,United States
-Entry level,Part-time,100,Large,BI Analyst,13882,Other,United States
-Entry level,Full-time,0,Medium,AI/ML Researcher,128543,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,89198,United States,United States
-Senior,Full-time,0,Large,Data Scientist,183945,United States,United States
-Senior,Full-time,0,Medium,Data Architect,266546,United States,United States
-Executive level,Full-time,50,Large,DS/AI Executive,147784,Canada,Canada
-Senior,Full-time,0,Medium,AI/ML Researcher,158536,United States,United States
-Entry level,Full-time,100,Medium,Data Scientist,115688,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,187458,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,214238,United States,United States
-Executive level,Full-time,100,Small,Data Scientist,84677,France,Spain
-Entry level,Full-time,0,Small,ML Engineer,124943,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,76354,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,73952,France,France
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,98602,France,Germany
-Senior,Full-time,100,Medium,DS/AI Executive,233146,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Analyst,156180,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,191141,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,194820,United States,United States
-Mid/Intermediate level,Full-time,0,Large,Data Scientist,88421,United States,United States
-Entry level,Full-time,0,Large,Data Analyst,45129,Canada,Canada
-Senior,Full-time,0,Medium,Data Engineer,289221,United States,United States
-Mid/Intermediate level,Full-time,100,Small,AI Engineer,116252,Germany,United States
-Senior,Full-time,50,Small,Data Engineer,93288,Other,United Kingdom
-Senior,Full-time,0,Medium,Data Engineer,149431,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,218304,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,138827,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,309655,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,59162,Spain,Spain
-Senior,Full-time,0,Large,Data Engineer,130728,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,97157,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,171390,United States,United States
-Executive level,Full-time,0,Medium,Data Engineer,224950,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,200312,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,187458,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Architect,181688,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,101763,United States,United States
-Senior,Full-time,100,Medium,Data Architect,180067,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,282164,United States,United States
-Senior,Full-time,100,Medium,DS/AI Executive,238318,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,128543,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,143325,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,149966,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,176746,United States,United States
-Entry level,Full-time,100,Medium,Data Engineer,62129,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,332069,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Scientist,22941,India,India
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,121472,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,74983,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,AI/ML Researcher,115688,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,257620,United States,United States
-Senior,Full-time,0,Medium,AI/ML Researcher,214238,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,65503,Spain,Spain
-Senior,Full-time,0,Large,Data Scientist,185102,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,73952,Other,Other
-Senior,Full-time,0,Medium,Data Scientist,252201,United States,United States
-Executive level,Full-time,0,Medium,Data Scientist,107119,United States,United States
-Entry level,Full-time,0,Medium,Data Scientist,203526,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,166034,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,183441,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,309655,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,235662,United States,United States
-Entry level,Full-time,100,Large,Data Engineer,96901,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,74178,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,65001,United Kingdom,United Kingdom
-Senior,Full-time,100,Large,Data Scientist,222122,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,94410,United Kingdom,United Kingdom
-Executive level,Full-time,100,Medium,DS/AI Executive,194212,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,294898,United States,United States
-Senior,Full-time,0,Large,Data Scientist,331425,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,294898,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Engineer,169576,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,60737,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,262441,United States,United States
-Senior,Full-time,100,Medium,Data Architect,222774,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,185102,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,304550,United States,United States
-Entry level,Full-time,50,Large,AI Engineer,231377,Canada,Canada
-Senior,Full-time,0,Medium,Data Engineer,138183,United States,United States
-Executive level,Full-time,100,Small,ML Engineer,231377,United States,United States
-Mid/Intermediate level,Full-time,0,Large,Data Engineer,27453,India,India
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,89445,United States,United States
-Entry level,Full-time,100,Small,Data Engineer,139255,Other,Other
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,115558,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,0,Large,Data Scientist,98772,Germany,Germany
-Senior,Full-time,0,Medium,BI Analyst,241018,United States,United States
-Senior,Full-time,50,Small,Data Engineer,193802,Other,United States
-Senior,Full-time,0,Medium,ML Engineer,134970,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,147289,United States,United States
-Senior,Full-time,50,Small,Data Scientist,190886,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,163728,United States,United States
-Mid/Intermediate level,Full-time,50,Medium,Data Engineer,72676,Spain,Other
-Entry level,Full-time,100,Large,Data Scientist,46275,Other,Other
-Entry level,Full-time,50,Large,Data Scientist,14170,India,India
-Senior,Full-time,50,Small,Data Engineer,153225,Other,Other
-Senior,Full-time,100,Medium,ML Engineer,173533,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,183441,Other,Other
-Mid/Intermediate level,Full-time,0,Small,Data Scientist,11492,India,India
-Senior,Full-time,0,Medium,Data Engineer,77413,Other,Other
-Entry level,Full-time,50,Medium,ML Engineer,26460,Other,Other
-Senior,Full-time,100,Medium,ML Engineer,172144,United States,United States
-Senior,Full-time,100,Medium,Data Architect,171390,United States,United States
-Senior,Full-time,0,Large,Data Scientist,229572,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,59001,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,127951,United States,United States
-Mid/Intermediate level,Full-time,50,Small,Data Scientist,68888,France,France
-Entry level,Full-time,100,Medium,Data Scientist,20887,India,India
-Entry level,Freelancer,100,Medium,ML Engineer,115688,Other,Other
-Senior,Full-time,0,Medium,DS/AI Executive,214487,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,121044,United States,United States
-Entry level,Full-time,50,Medium,Data Scientist,57844,United States,Germany
-Mid/Intermediate level,Full-time,100,Medium,AI/ML Researcher,173533,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,160678,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,212404,Canada,Canada
-Entry level,Full-time,100,Medium,Data Analyst,68770,United States,United States
-Entry level,Part-time,100,Medium,AI Engineer,14535,Other,United States
-Mid/Intermediate level,Full-time,50,Large,Data Scientist,110166,Germany,Germany
-Senior,Full-time,0,Large,Data Engineer,237855,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,237161,United States,United States
-Senior,Full-time,100,Medium,Data Architect,219808,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,138827,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,163468,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,86766,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,55465,Spain,Spain
-Executive level,Full-time,100,Medium,Data Engineer,125012,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,210976,Germany,Germany
-Senior,Full-time,100,Medium,Data Analyst,205913,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,166707,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,101113,United Kingdom,United Kingdom
-Entry level,Full-time,50,Large,Data Analyst,115688,United States,United States
-Entry level,Full-time,50,Large,Data Scientist,32046,Spain,Spain
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,139255,Canada,Canada
-Senior,Full-time,100,Medium,Data Engineer,185559,United States,United States
-Senior,Full-time,50,Large,Data Scientist,116696,Canada,Canada
-Senior,Full-time,0,Medium,Data Engineer,269940,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,69606,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,115688,Canada,Canada
-Senior,Full-time,0,Medium,Data Engineer,246373,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Analyst,92550,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,DS/AI Executive,74983,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,220580,United States,United States
-Senior,Full-time,100,Medium,Data Architect,159650,United States,United States
-Mid/Intermediate level,Freelancer,0,Large,Data Engineer,24225,Other,United States
-Senior,Full-time,0,Medium,Data Scientist,269940,United States,United States
-Mid/Intermediate level,Contractor,100,Small,ML Engineer,69413,India,United States
-Senior,Full-time,0,Medium,Data Engineer,157465,United States,United States
-Mid/Intermediate level,Full-time,100,Large,ML Engineer,117831,United States,United States
-Executive level,Full-time,0,Medium,Data Engineer,179425,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,124258,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,117831,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,158031,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,143792,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Scientist,53593,Spain,Spain
-Entry level,Full-time,100,Large,Data Scientist,98602,Other,Other
-Mid/Intermediate level,Full-time,50,Large,ML Engineer,234590,United States,United States
-Senior,Full-time,0,Medium,BI Analyst,138504,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,156180,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,152109,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,275296,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Scientist,55661,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,183816,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,300790,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,128810,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,56237,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,119096,France,France
-Mid/Intermediate level,Full-time,50,Large,ML Engineer,62000,Other,Other
-Entry level,Full-time,50,Small,ML Engineer,98112,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,108336,United Kingdom,United Kingdom
-Mid/Intermediate level,Full-time,100,Medium,Data Engineer,86766,United States,United States
-Senior,Full-time,100,Small,ML Engineer,56440,Other,Other
-Senior,Full-time,0,Medium,Data Analyst,121472,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,113546,United States,United States
-Senior,Full-time,100,Medium,ML Engineer,185102,United States,United States
-Entry level,Full-time,50,Large,Data Engineer,81313,Other,Other
-Senior,Full-time,0,Medium,Data Scientist,155322,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,160678,United States,United States
-Senior,Full-time,100,Medium,Data Architect,222584,Canada,Canada
-Senior,Full-time,0,Medium,Data Analyst,45256,Spain,Spain
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,214238,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,115152,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Analyst,23808,India,India
-Entry level,Full-time,50,Large,Data Scientist,100202,United Kingdom,United Kingdom
-Senior,Full-time,0,Medium,Data Architect,94286,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,142759,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,155023,United States,United States
-Entry level,Full-time,0,Medium,Data Analyst,107119,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,267530,United States,United States
-Senior,Full-time,100,Small,Data Engineer,139295,United States,United States
-Senior,Full-time,0,Medium,DS/AI Executive,205416,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,72223,United Kingdom,United Kingdom
-Senior,Full-time,100,Medium,ML Engineer,284594,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,167105,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,161964,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,47205,United Kingdom,United Kingdom
-Senior,Full-time,100,Large,ML Engineer,29555,India,India
-Entry level,Full-time,100,Small,Data Analyst,63628,United States,United States
-Executive level,Full-time,0,Medium,Data Architect,192814,United States,United States
-Senior,Full-time,100,Large,Data Management,199858,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,118003,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,294577,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,100478,United States,United States
-Senior,Full-time,100,Medium,Data Analyst,103194,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,Data Analyst,115688,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,168095,United States,United States
-Mid/Intermediate level,Full-time,100,Medium,ML Engineer,187458,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,101763,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,153287,Canada,Canada
-Senior,Full-time,0,Medium,ML Engineer,265119,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,ML Engineer,321357,United States,United States
-Senior,Full-time,0,Medium,Data Analyst,115688,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,122720,United Kingdom,United Kingdom
-Senior,Full-time,100,Medium,Data Engineer,72223,United Kingdom,United Kingdom
-Entry level,Full-time,100,Medium,AI/ML Researcher,14777,India,India
-Mid/Intermediate level,Full-time,100,Medium,AI Engineer,160678,United States,United States
-Senior,Full-time,100,Medium,Data Engineer,151681,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,258157,United States,United States
-Senior,Full-time,0,Medium,ML Engineer,161964,Canada,Canada
-Senior,Full-time,100,Medium,Data Engineer,249886,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,219594,United States,United States
-Senior,Full-time,0,Medium,Data Engineer,160678,United States,United States
-Executive level,Full-time,100,Medium,Data Engineer,306360,United States,United States
-Senior,Full-time,100,Medium,Data Scientist,246185,United States,United States
-Mid/Intermediate level,Full-time,100,Large,Data Engineer,134837,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,265119,United States,United States
-Senior,Full-time,0,Medium,Data Scientist,199241,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,Data Engineer,154106,United States,United States
-Mid/Intermediate level,Full-time,0,Medium,DS/AI Executive,161964,United States,United States
-Mid/Intermediate level,Full-time,100,Small,Data Engineer,73371,Germany,Germany
-Mid/Intermediate level,Full-time,0,Medium,Data Analyst,121472,United States,United States
-Entry level,Full-time,0,Medium,Data Scientist,143725,United States,United States
+experience_level,employment_type,remote_ratio,company_size,job_title_freq,employee_residence_top,company_location_top,inflation_adj_salary
+Executive level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,267047.4177
+Senior,Full-time,Remote,Large,Data Scientist,United States,United States,284645.55330539995
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,153180.02699999997
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,163467.726156
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,182102.12999999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,109796.87249999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,266083.3476
+Mid/ Intermediate level,Full-time,Remote,Small,Data Scientist,Other,United States,56092.276959515584
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,226402.22228399996
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,149966.46
+Entry level,Full-time,Remote,Small,Data Scientist,United States,United States,109013.1906276
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,300789.87119999994
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,295648.164
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,112217.75963999997
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,United States,United States,202454.721
+Senior,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,107118.89999999998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,192621.20597999997
+Executive level,Full-time,Remote,Medium,Data Engineer,United States,United States,332068.58999999997
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,214237.79999999996
+Mid/ Intermediate level,Full-time,Hybrid,Large,ML Engineer,India,India,24616.393226096
+Senior,Full-time,On-site,Large,Data Engineer,United States,United States,220236.45839999994
+Senior,Full-time,Remote,Large,Data Scientist,United States,United States,183019.06778399998
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,133041.6738
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,150394.93559999997
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,155322.405
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,149966.46
+Entry level,Full-time,Remote,Large,AI Engineer,Germany,Germany,238192.07035599998
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,169136.45834399996
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United Kingdom,United Kingdom,82335.40673688399
+Executive level,Full-time,Remote,Medium,Data Engineer,United States,United States,279965.95704
+Senior,Full-time,On-site,Medium,Data Scientist,Other,Other,85748.612604
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,97156.84229999999
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,149430.86549999999
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,167748.19739999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,253871.79299999995
+Entry level,Full-time,Remote,Large,Data Engineer,United States,United States,92550.72959999999
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,219058.15049999996
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,187458.07499999998
+Mid/ Intermediate level,Full-time,On-site,Small,Data Scientist,Germany,Germany,147904.82548352
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,72883.69956
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,150973.37765999997
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,86766.309
+Entry level,Full-time,Remote,Large,Data Engineer,Germany,Germany,29773.731334
+Mid/ Intermediate level,Full-time,Remote,Medium,AI Engineer,India,India,18648.818295618
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,74983.23
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United Kingdom,United Kingdom,50556.04662942399
+Entry level,Full-time,On-site,Medium,Data Scientist,United States,United States,107118.89999999998
+Senior,Full-time,Remote,Large,Data Analyst,Germany,Germany,96157.95613937161
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,123555.224016
+Entry level,Full-time,On-site,Medium,Data Scientist,United States,United States,84452.54075999997
+Senior,Full-time,On-site,Large,Data Engineer,United States,United States,257620.95449999993
+Senior,Full-time,Remote,Medium,AI/ DS Executive,United States,United States,80981.88839999998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,214237.79999999996
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,164963.106
+Entry level,Full-time,Remote,Medium,Data Analyst,Other,Other,28219.99433303033
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,192814.02
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,133898.62499999997
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,Other,Other,144556.86579033858
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,212982.36649199994
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,104119.57079999999
+Senior,Full-time,On-site,Medium,ML Engineer,Germany,Germany,193112.508
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,138826.0944
+Senior,Full-time,On-site,Medium,Data Engineer,Spain,Spain,86277.03279672399
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,283865.08499999996
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,221196.24374399995
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,203525.90999999997
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,182102.12999999998
+Entry level,Full-time,On-site,Medium,ML Engineer,United States,United States,156270.407265
+Senior,Full-time,Remote,Medium,AI/ DS Executive,United States,United States,202570.40941199998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,186922.48049999998
+Mid/ Intermediate level,Full-time,Hybrid,Large,AI/ DS Executive,India,India,67472.84439
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United Kingdom,United Kingdom,130003.27379508
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United Kingdom,United Kingdom,130003.27379508
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,171390.24
+Entry level,Full-time,Hybrid,Large,BI Analyst,India,India,6567.400087855109
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,179424.15749999997
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,149966.46
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,193006.83401999995
+Entry level,Full-time,On-site,Medium,Data Analyst,United States,United States,63628.626599999996
+Mid/ Intermediate level,Full-time,Hybrid,Large,BI Analyst,United States,United States,112474.84499999997
+Senior,Full-time,Remote,Large,AI/ DS Executive,United States,United States,211709.79395999998
+Mid/ Intermediate level,Full-time,Remote,Medium,ML Engineer,United States,United States,192814.02
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,122930.50659119998
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Analyst,Spain,Spain,49300.826425843996
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,Other,Other,121384.529382
+Senior,Full-time,Hybrid,Large,Data Scientist,United States,United States,147095.13188684155
+Mid/ Intermediate level,Full-time,Hybrid,Large,Data Scientist,United Kingdom,United Kingdom,141952.48916093403
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,187458.07499999998
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,278509.13999999996
+Entry level,Full-time,On-site,Medium,AI Engineer,United States,United States,235661.57999999996
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,117830.78999999998
+Senior,Full-time,Hybrid,Large,Data Scientist,United States,United States,166591.31327999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,114885.02024999997
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,214023.56219999996
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,184780.10249999998
+Entry level,Full-time,Remote,Large,Data Analyst,Other,Other,33295.259999999995
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,300789.87119999994
+Senior,Full-time,Remote,Small,ML Engineer,Other,Other,76251.69461
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,266083.3476
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,147288.4875
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,167748.19739999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,154251.216
+Entry level,Full-time,Remote,Large,Data Engineer,India,India,19703.41442516412
+Entry level,Full-time,Hybrid,Large,Data Scientist,India,India,36122.521725601284
+Mid/ Intermediate level,Full-time,Hybrid,Large,ML Engineer,United Kingdom,United Kingdom,150225.22320565197
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,104119.57079999999
+Senior,Full-time,Remote,Small,Data Scientist,France,United States,60562.883682
+Mid/ Intermediate level,Full-time,Remote,Large,Data Analyst,United States,United States,104192.38508651278
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,161963.77679999996
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,150394.93559999997
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,161801.8130232
+Entry level,Full-time,On-site,Medium,Data Scientist,United States,United States,79846.42805999999
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,265761.9909
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United Kingdom,United Kingdom,137224.895826144
+Entry level,Full-time,Remote,Large,Data Engineer,United States,United States,96900.61389119999
+Senior,Full-time,Remote,Small,AI/ ML Researcher,Germany,Germany,119096.03517799999
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,Spain,Spain,55464.309556320004
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,229294.43258399997
+Senior,Full-time,Remote,Large,Data Analyst,United States,Other,200600.61197399997
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,178160.15447999997
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,185101.45919999998
+Senior,Full-time,Remote,Medium,AI/ DS Executive,United States,United States,167748.19739999998
+Entry level,Full-time,On-site,Small,AI Engineer,Other,Other,7395.241274175999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,220664.93399999995
+Mid/ Intermediate level,Full-time,Remote,Large,Data Analyst,United States,United States,96900.61389119999
+Entry level,Full-time,Hybrid,Medium,Data Analyst,India,India,33295.259999999995
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,133041.6738
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,205668.28799999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,114617.22299999997
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,76354.35191999999
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,United States,United States,136512.32616
+Executive level,Full-time,On-site,Medium,AI/ DS Executive,United Kingdom,United Kingdom,141468.230214
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,117830.78999999998
+Mid/ Intermediate level,Full-time,Remote,Large,Data Analyst,United States,United States,156179.35619999998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,69627.28499999999
+Entry level,Full-time,Remote,Small,ML Engineer,United States,United States,169159.4016698678
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,271867.7682
+Entry level,Full-time,Hybrid,Large,Data Engineer,Other,Other,81312.4022709663
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,148627.47374999998
+Entry level,Full-time,Remote,Medium,Data Engineer,United Kingdom,United Kingdom,72223.25892860399
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,159339.36375
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United States,United States,224319.83086799996
+Senior,Full-time,Remote,Small,Data Engineer,Other,Other,14790.482548351998
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Analyst,United States,United States,80339.17499999999
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,173532.618
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,160142.7555
+Senior,Full-time,On-site,Medium,AI/ ML Researcher,United States,United States,198169.965
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,190881.25226351997
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,United Kingdom,United Kingdom,70133.135664
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,157571.90189999997
+Mid/ Intermediate level,Full-time,Remote,Medium,ML Engineer,United States,United States,208239.14159999997
+Mid/ Intermediate level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,144610.51499999998
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,100897.43428799997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,192814.02
+Senior,Full-time,Remote,Large,AI/ DS Executive,United States,United States,199857.5161506
+Senior,Full-time,On-site,Medium,BI Analyst,United States,United States,199134.03509999998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,114531.52787999998
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,Other,Other,91502.033532
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,107118.89999999998
+Senior,Full-time,Remote,Large,Data Scientist,United States,United States,185101.45919999998
+Mid/ Intermediate level,Contractor,Remote,Large,ML Engineer,United States,United States,327039.57188279997
+Senior,Full-time,Remote,Large,Data Scientist,Canada,Canada,125897.63034013388
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,199857.5161506
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,260298.92699999997
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,226749.28751999995
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,115581.29309999998
+Entry level,Full-time,On-site,Medium,Data Analyst,Canada,Canada,78597.900598
+Senior,Full-time,Remote,Medium,Data Analyst,Other,Other,47204.909786000004
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,163467.726156
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,148788.15209999998
+Senior,Full-time,Hybrid,Small,Data Scientist,United States,United States,190885.87979999997
+Mid/ Intermediate level,Full-time,Hybrid,Large,Data Scientist,France,France,44393.68
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,112474.84499999997
+Mid/ Intermediate level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,190885.87979999997
+Entry level,Full-time,On-site,Medium,Data Scientist,United States,United States,150394.93559999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,156179.35619999998
+Senior,Full-time,On-site,Medium,Data Engineer,Other,Other,41683.445836
+Executive level,Full-time,On-site,Medium,Data Scientist,United States,United States,155322.405
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,Other,Other,48795.9404937713
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,271867.7682
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,123186.73499999997
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,108400.04204399999
+Mid/ Intermediate level,Full-time,Hybrid,Medium,Data Engineer,Spain,Other,72849.69592739998
+Mid/ Intermediate level,Full-time,Hybrid,Large,Data Scientist,United States,United States,178054.87802508
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,266546.101248
+Senior,Full-time,Remote,Medium,AI/ DS Executive,United States,United States,318464.4897
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,27765.218879999997
+Senior,Full-time,On-site,Large,Data Engineer,United States,United States,266083.3476
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,119973.16799999998
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United Kingdom,United Kingdom,108336.0614959
+Senior,Full-time,On-site,Large,Data Analyst,United States,United States,217237.12919999997
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United Kingdom,United Kingdom,51250.283875999994
+Senior,Full-time,On-site,Medium,AI Engineer,Other,Other,119862.93599999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,138826.0944
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,282164.036868
+Mid/ Intermediate level,Full-time,Remote,Medium,AI/ ML Researcher,United States,United States,277652.1888
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,195513.41627999995
+Senior,Full-time,Remote,Medium,AI/ DS Executive,United States,United States,231376.82399999996
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,149966.46
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,65556.7668
+Mid/ Intermediate level,Full-time,Remote,Large,Data Scientist,Canada,Canada,92001.88098671346
+Senior,Full-time,On-site,Large,Data Scientist,United States,United States,278509.13999999996
+Mid/ Intermediate level,Full-time,Hybrid,Large,Data Analyst,United Kingdom,United Kingdom,62552.391408062
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,185101.45919999998
+Senior,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,138826.0944
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,204768.48923999997
+Entry level,Full-time,Hybrid,Small,ML Engineer,Other,Other,11731.029939999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,112474.84499999997
+Senior,Full-time,On-site,Medium,AI/ ML Researcher,United States,United States,107118.89999999998
+Mid/ Intermediate level,Contractor,Hybrid,Medium,Data Engineer,Other,Other,8798.272455
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,Spain,Spain,73838.898102
+Entry level,Full-time,On-site,Medium,Data Engineer,United States,United States,91051.06499999999
+Mid/ Intermediate level,Part-time,Hybrid,Large,Data Engineer,Germany,Germany,61626.61958380199
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,176746.185
+Senior,Full-time,On-site,Large,Data Engineer,United States,United States,113224.67729999998
+Entry level,Full-time,Remote,Large,Data Analyst,United States,United States,111547.14168085487
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Analyst,United States,United States,57844.20599999999
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,United States,United States,98335.15019999997
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,244231.09199999995
+Entry level,Full-time,Remote,Large,Data Analyst,United States,United States,88257.07913210495
+Senior,Full-time,On-site,Medium,AI Engineer,United States,United States,230305.63499999995
+Senior,Full-time,On-site,Small,Data Scientist,Other,Other,112881.21456279048
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,158053.50847439998
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,160517.67164999997
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,199134.03509999998
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,203525.90999999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,148659.60941999996
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,142682.37479999996
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,124257.92399999997
+Entry level,Full-time,On-site,Medium,AI Engineer,Germany,Germany,71457.17717
+Mid/ Intermediate level,Full-time,Hybrid,Medium,Data Scientist,France,France,76066.0100025947
+Mid/ Intermediate level,Full-time,Remote,Large,Data Analyst,India,India,7512.464623182083
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,131769.101268
+Mid/ Intermediate level,Full-time,Remote,Medium,ML Engineer,United Kingdom,United Kingdom,83619.935648
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,245302.28099999996
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,154251.216
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,117830.78999999998
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,197098.77599999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,165605.81939999995
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,231376.82399999996
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,127257.25319999999
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,100477.52819999999
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,185101.45919999998
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,176746.185
+Executive level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,166034.29499999998
+Entry level,Full-time,Remote,Small,ML Engineer,India,India,24283.231975799998
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,163227.77981999997
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,215180.44631999996
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,137112.19199999998
+Executive level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,336460.46489999996
+Senior,Full-time,Remote,Large,Data Analyst,United States,United States,205913.80451879997
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Analyst,United States,United States,150394.93559999997
+Entry level,Full-time,Remote,Large,Data Scientist,United States,United States,138826.0944
+Entry level,Full-time,Remote,Medium,AI Engineer,Other,Other,46924.119759999994
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,256815.42037199996
+Senior,Full-time,Remote,Large,AI/ DS Executive,United States,United States,219229.54073999997
+Executive level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,237161.2446
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,90236.96135999999
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,200140.95275999996
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,147288.4875
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,199215.44546399996
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,282164.036868
+Mid/ Intermediate level,Full-time,Remote,Large,Data Analyst,United States,United States,92550.72959999999
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,149966.46
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,173532.618
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,115688.41199999998
+Senior,Full-time,Remote,Medium,ML Engineer,France,France,86277.03279672399
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,121345.57534679999
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,247712.45624999996
+Senior,Full-time,Remote,Large,AI Engineer,Other,Other,146637.87425
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,128542.67999999998
+Senior,Full-time,On-site,Medium,Data Scientist,United Kingdom,United Kingdom,205320.77000000002
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,160678.34999999998
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,211709.79395999998
+Entry level,Full-time,On-site,Large,BI Analyst,Germany,Germany,71486.55024837199
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,177697.40083199998
+Executive level,Full-time,Remote,Medium,Data Analyst,United States,United States,127257.25319999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,133898.62499999997
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,116759.60099999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,148081.16736
+Senior,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,214486.31584799997
+Entry level,Full-time,Remote,Medium,Data Engineer,Other,Germany,65077.88859215
+Senior,Full-time,Hybrid,Large,Data Engineer,United Kingdom,United Kingdom,116901.90705469876
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,224360.53604999997
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United States,United States,187458.07499999998
+Senior,Full-time,Remote,Large,Data Scientist,India,Other,9384.823951999999
+Mid/ Intermediate level,Full-time,Remote,Large,Data Analyst,India,India,18216.946588000003
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,90236.96135999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,Canada,Canada,76251.69461
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,160678.34999999998
+Senior,Full-time,Remote,Medium,ML Engineer,Canada,Canada,136197.25760339998
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,133898.62499999997
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Analyst,United Kingdom,United Kingdom,57778.84176348199
+Entry level,Full-time,On-site,Medium,Data Scientist,United States,United States,143724.34176407996
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,101762.95499999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,150394.93559999997
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,231376.82399999996
+Entry level,Full-time,Remote,Small,ML Engineer,Other,Germany,40673.82700796799
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,222121.75103999997
+Senior,Full-time,On-site,Medium,Data Scientist,Canada,Canada,195332.192
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,United States,United States,124943.48496
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,207545.01112799998
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United States,United States,171390.24
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,130363.70129999999
+Mid/ Intermediate level,Full-time,On-site,Medium,AI/ DS Executive,United States,United States,156179.35619999998
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,Other,Other,83366.891672
+Entry level,Full-time,Remote,Small,ML Engineer,Other,Other,66322.55086878399
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Analyst,United States,United States,76470.04033199999
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,107654.49449999997
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United States,United States,135266.53335299998
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,Other,Other,107186.320676
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,67484.90699999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,107118.89999999998
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,130685.05799999998
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,113010.43949999998
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,171390.24
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,87479.72087399999
+Entry level,Part-time,Remote,Large,BI Analyst,Other,United States,13882.609439999998
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,199241.15399999998
+Senior,Full-time,Remote,Large,Data Engineer,United States,United States,210758.83521335997
+Entry level,Full-time,Hybrid,Large,Data Analyst,Other,United States,53559.44999999999
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,192814.02
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,202454.721
+Mid/ Intermediate level,Full-time,Remote,Medium,BI Analyst,India,India,20887.098808169998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,127257.25319999999
+Senior,Full-time,Remote,Small,Data Analyst,United States,United States,85695.12
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,173532.618
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,145767.39912
+Senior,Full-time,On-site,Medium,Data Scientist,Spain,Spain,42874.306302
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,192814.02
+Entry level,Full-time,Hybrid,Medium,Data Scientist,Other,Other,97568.149113974
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,148081.16736
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,220579.23887999996
+Mid/ Intermediate level,Full-time,Remote,Medium,ML Engineer,United Kingdom,United Kingdom,51250.283875999994
+Senior,Full-time,Remote,Small,Data Engineer,Other,United States,55530.43775999999
+Senior,Full-time,On-site,Medium,Data Scientist,Spain,Spain,44371.447645056
+Mid/ Intermediate level,Full-time,Hybrid,Large,AI Engineer,Spain,Spain,42874.306302
+Entry level,Full-time,Remote,Large,Data Engineer,United States,United States,85805.49360065759
+Mid/ Intermediate level,Full-time,Hybrid,Small,Data Scientist,France,France,52207.42254684032
+Senior,Full-time,Hybrid,Large,Data Analyst,United Kingdom,United Kingdom,75151.74631870583
+Entry level,Full-time,Remote,Large,Data Engineer,India,India,18891.730524
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,217558.48589999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,164534.63039999997
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,173532.618
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,260298.92699999997
+Mid/ Intermediate level,Full-time,Hybrid,Large,Data Engineer,United Kingdom,United Kingdom,139648.7000902187
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,Other,Other,49270.325747999996
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Engineer,United Kingdom,United Kingdom,93890.471227784
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,France,France,73952.41274176
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,74983.23
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,161501.02315199998
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,215064.75790799994
+Mid/ Intermediate level,Full-time,Remote,Medium,Data Scientist,United States,United States,149966.46
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,192814.02
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Analyst,United States,United States,71726.81543999999
+Mid/ Intermediate level,Full-time,Remote,Small,Data Scientist,United Kingdom,United Kingdom,95214.79783775473
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,178160.15447999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,173318.38019999999
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,309655.03136399994
+Executive level,Full-time,Remote,Small,ML Engineer,United States,United States,208239.14159999997
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Scientist,United States,United States,115688.41199999998
+Entry level,Full-time,Remote,Medium,Data Engineer,United States,United States,99299.22029999999
+Senior,Full-time,On-site,Large,Data Scientist,Germany,Germany,136960.05200999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,167748.19739999998
+Senior,Full-time,Remote,Medium,ML Engineer,United States,United States,150394.93559999997
+Senior,Full-time,On-site,Medium,Data Analyst,United States,United States,112474.84499999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,127835.69526
+Mid/ Intermediate level,Full-time,On-site,Medium,Data Engineer,United States,United States,133898.62499999997
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,111403.65599999997
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,138826.0944
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United Kingdom,United Kingdom,93890.471227784
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,143539.326
+Entry level,Part-time,Hybrid,Medium,Data Analyst,Spain,Spain,12571.429193871658
+Entry level,Full-time,On-site,Medium,AI/ ML Researcher,United States,United States,133898.62499999997
+Senior,Full-time,On-site,Medium,ML Engineer,United States,United States,144610.51499999998
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,109796.87249999998
+Senior,Full-time,Remote,Medium,Data Scientist,United States,United States,150394.93559999997
+Senior,Full-time,On-site,Medium,Data Scientist,United States,United States,80981.88839999998
+Senior,Full-time,On-site,Large,Data Scientist,United States,United States,163519.78594139998
+Senior,Full-time,On-site,Medium,Data Engineer,United States,United States,160678.34999999998
+Senior,Full-time,Remote,Medium,Data Engineer,United States,United States,153078.90675839997
+Mid/ Intermediate level,Full-time,On-site,Medium,ML Engineer,United States,United States,160678.34999999998
+Senior,Full-time,Remote,Medium,Data Analyst,United States,United States,222700.19309999997
