@@ -16,18 +16,18 @@ def main():
     logging.info(f"{STEP_1} starts >>>>>")
     DataIngestionPipeline().ingest_data()
     logging.info(">>>>> f{STEP_1} finished!")
-
+    
     # Triggers data transformation
     logging.info(f"{STEP_2} starts >>>>>")
     data_transform_obj = DataTransformationPipeline()
     data_transform_obj.transform_data()
     logging.info(f">>>>> {STEP_2} finished!")
-"""
+    
     # Trigger model training
     logging.info(f"{STEP_3} starts >>>>>")
     ModelTrainingPipeline().train_models()
     logging.info(f">>>>> {STEP_3} finished!")
-
+    """
     # Trigger model evaluation
     logging.info(f"{STEP_4} starts >>>>>")
     ModelEvalPipeline().evaluate_model()
