@@ -7,9 +7,14 @@ import joblib
 import mlflow
 import mlflow.sklearn
 import mlflow.xgboost
+from mlflow.models.signature import infer_signature
+from mlflow.tracking import MlflowClient
 from src.mlproject.entity.config_entity import ModelEvaluationConfig
 from src.mlproject import logging
 from box.exceptions import BoxValueError
+from datetime import datetime
+
+EXP_NAME = "ds-salary-2023-prediction"
 
 class ModelEvaluation():
     def __init__(self, config: ModelEvaluationConfig):
@@ -63,33 +68,96 @@ class ModelEvaluation():
         except BoxValueError as e:
             logging.error("Error: {e}")
 
-    def run_mlflow(self, top_n=3):
+    def run_mlflow(self, top_n: int = 3, version: str = "v1"):
         try:
-            logging.info("MLflow experiment starts") 
+            logging.info("MLflow experiment starts")
             top_n_models = self.evaluate_models()[:top_n]
             
-            mlflow.set_experiment("ds-salary-prediction")
+            mlflow.set_experiment("ds-salary-2023-prediction")
             mlflow.set_tracking_uri(uri=self.config.mlflow_uri)
 
             for element in top_n_models:
-                with mlflow.start_run(run_name=f"{element[0]}_v6"):
+                name = f"{element[0]}_{version}"
+                model_obj = element[1]['model']
+                test_arr = joblib.load(self.config.test_data_path)
+                X_test = test_arr[:, :-1]
+
+
+                # Create an input example (small subset)
+                input_example = X_test[:5]
+                signature = infer_signature(X_test, model_obj.predict(X_test))
+
+                with mlflow.start_run(run_name=name):
                     mlflow.log_params(element[1]['best_params'])
                     mlflow.log_metric('mae', element[1]['test_scores']['mae'])
                     mlflow.log_metric('rmse', element[1]['test_scores']['rmse'])
                     mlflow.log_metric('r2_score', element[1]['test_scores']['test_r2'])
-                    if 'xgb' in element[0]: 
-                        mlflow.xgboost.log_model(element[1]['model'], f"{element[0]}_v6")
-                    else:                                           
-                        mlflow.sklearn.log_model(element[1]['model'], f"{element[0]}_v6")
-                
-                # Register the champion model with MLflow
-                
-                model_name = "cat_v6"
-                run_id = "f44f5fcbfd1c40f982a57ab89cfb73b4"
-                model_uri = f"runs:/{run_id}/{model_name}"
-                results = mlflow.register_model(model_uri=model_uri, 
-                                                name="CatBoost")
-                
-        except BoxValueError as e:
-            logging.error(f"Error: {e}")
+
+                    if 'xgb' in element[0].lower():
+                        mlflow.xgboost.log_model(
+                            model_obj,
+                            name,
+                            signature=signature,
+                            input_example=input_example)
+                    else:
+                        mlflow.sklearn.log_model(
+                            model_obj,
+                            name,
+                            signature=signature,
+                            input_example=input_example)
+
+        except Exception as e:
+            logging.exception(f"MLflow run failed: {e}")
+
+    def register_best_model(self, model_name: str):
+        client = MlflowClient()
+        experiment = client.get_experiment_by_name("ds-salary-2023-prediction")
+
+        # --- 1. Get the best run by MAE ---
+        runs = client.search_runs(
+            [experiment.experiment_id],
+            order_by=["metrics.mae ASC"],
+            max_results=1
+        )
+        best_run = runs[0]
+        model_uri = f"runs:/{best_run.info.run_id}/xgb_v8"  
+
+        # --- 2. Register the model ---
+        registered_model = mlflow.register_model(model_uri, model_name)
+
+        # --- 3. Use aliases instead of deprecated stages ---
+        # Alias "production" replaces the old "Production" stage
+        try:
+            # Remove the old alias if it exists, so only one "production" model is active
+            existing_version = client.get_model_version_by_alias(model_name, "production")
+            if existing_version:
+                client.delete_registered_model_alias(model_name, "production")
+        except Exception:
+            # It's fine if alias doesn't exist yet
+            pass
+
+        # Assign alias to the new model version
+        client.set_registered_model_alias(
+            name=model_name,
+            alias="production",
+            version=registered_model.version
+        )
+
+        # --- 4. Log metrics & tags cleanly ---
+        metric_history = client.get_metric_history(best_run.info.run_id, "mae")
+        mae_value = float(metric_history[-1].value) if metric_history else None
+
+        tags = {
+            "run_id": best_run.info.run_id,
+            "registered_by": "evaluation_pipeline",
+            "timestamp": str(datetime.now())
+        }
+
+        if mae_value is not None:
+            tags["mae"] = str(mae_value)
+
+        for key, value in tags.items():
+            client.set_model_version_tag(model_name, registered_model.version, key, value)
+
+        logging.info(f"Model '{model_name}' version {registered_model.version} registered and aliased as 'production'.")
 
