@@ -1,6 +1,7 @@
 import pandas as pd
 import joblib
 from pathlib import Path
+import mlflow
 
 class Prediction:
     def __init__(
@@ -9,7 +10,7 @@ class Prediction:
         employment_type: str,
         remote_ratio: str,
         company_size: str,
-        job_category: str,
+        job_title_freq: str,
         employee_residence_top: str,
         company_location_top: str,
         data_pipeline=None,
@@ -19,7 +20,7 @@ class Prediction:
         self.employment_type = employment_type
         self.remote_ratio = remote_ratio
         self.company_size = company_size
-        self.job_category = job_category
+        self.job_title_freq = job_title_freq
         self.employee_residence_top = employee_residence_top
         self.company_location_top = company_location_top
         self.data_pipeline = data_pipeline
@@ -32,7 +33,7 @@ class Prediction:
             'employment_type': self.employment_type,
             'remote_ratio': self.remote_ratio,
             'company_size': self.company_size,
-            'job_category': self.job_category,
+            'job_title_freq': self.job_title_freq,
             'employee_residence_top': self.employee_residence_top,
             'company_location_top': self.company_location_top
         }
@@ -46,8 +47,12 @@ class Prediction:
         # --- Load model & transformer if not provided ---
         if self.data_pipeline is None or self.model is None:
             try:
-                data_process_pipe_obj = joblib.load("artifacts/data_transformation/data_trans_obj_v1.1.joblib")
-                prod_model = joblib.load(Path("artifacts/model_evaluation/model_v1.2.joblib"))
+                data_process_pipe_obj = joblib.load("artifacts/data_transformation/data_trans_obj_v1.3.joblib")
+                # prod_model = joblib.load("artifacts/model_evaluation/model_v1.3.joblib")
+                model_name = "XGB_Regressor"
+                model_version = 4  # Example
+                prod_model = mlflow.pyfunc.load_model(
+                    model_uri=f"models:/{model_name}/{model_version}")
             except Exception as e:
                 raise RuntimeError(f"Error loading model artifacts: {e}")
         else:
@@ -62,4 +67,15 @@ class Prediction:
 
 
 if __name__ == "__main__":
-    print("Prediction module ready for Flask app integration.")
+    print("Prediction module is ready for Flask app integration.")
+    # pred_obj = Prediction(
+    #     experience_level="Senior",
+    #     employment_type="Full-time",
+    #     remote_ratio="On-site",
+    #     company_size="Large",
+    #     job_title_freq ="Data Scientist",
+    #     employee_residence_top="United States",
+    #     company_location_top="United States"
+    # )
+    # result = pred_obj.get_prediction()
+    # print(f"Predicted Salary: {result}")
