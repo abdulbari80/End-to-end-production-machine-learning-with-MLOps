@@ -18,18 +18,16 @@
         <!-- Form -->
         <form action="{{ url_for('predict_user_salary') }}" method="POST" id="prediction-form">
             <div class="form-group">
-                <label for="job_category">Job Role</label>
-                <select id="job_category" name="job_category" required>
+                <label for="job_title_freq">Job Role</label>
+                <select id="job_title_freq" name="job_title_freq" required>
                     <option value="" disabled selected>Select your role</option>
                     <option value="AI Engineer">AI Engineer</option>
                     <option value="AI/ML Researcher">AI/ML Researcher</option>
                     <option value="BI Analyst">BI Analyst</option>
                     <option value="Data Analyst">Data Analyst</option>
-                    <option value="Data Architect">Data Architect</option>
                     <option value="Data Engineer">Data Engineer</option>
-                    <option value="Data Management">Data Management</option>
                     <option value="Data Scientist">Data Scientist</option>
-                    <option value="DS/AI Executive">DS/AI Executive</option>
+                    <option value="AI/ DS Executive">DS/AI Executive</option>
                     <option value="ML Engineer">ML Engineer</option>
                 </select>
             </div>
@@ -80,14 +78,12 @@
                 <label for="company_location_top">Company Location</label>
                 <select id="company_location_top" name="company_location_top" required>
                     <option value="" disabled selected>Select country</option>
-                    <option value="Australia">Australia</option>
                     <option value="United States">United States</option>
                     <option value="United Kingdom">United Kingdom</option>
                     <option value="Canada">Canada</option>
                     <option value="France">France</option>
                     <option value="Germany">Germany</option>
                     <option value="India">India</option>
-                    <option value="Brazil">Brazil</option>
                     <option value="Spain">Spain</option>
                     <option value="Other">Other</option>
                 </select>
@@ -97,7 +93,6 @@
                 <label for="employee_residence_top">Your Residence</label>
                 <select id="employee_residence_top" name="employee_residence_top" required>
                     <option value="" disabled selected>Select country</option>
-                    <option value="Australia">Australia</option>
                     <option value="United States">United States</option>
                     <option value="United Kingdom">United Kingdom</option>
                     <option value="Canada">Canada</option>
