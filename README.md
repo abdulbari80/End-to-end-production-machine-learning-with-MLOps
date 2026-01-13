@@ -3,31 +3,38 @@
 This project showcases a production-grade machine learning system built following MLOps best practices, covering the full lifecycle from data preparation to cloud deployment.
 
 ```mermaid
-flowchart LR
-    A[Project Start] --> B[Data Collection<br/>Kaggle Dataset]
-    B --> C[Data Preparation]
-    C --> C1[Salary Adjustment to 2025<br/>Using Inflation Rates]
-    C1 --> C2[Exploratory Data Analysis]
-    C2 --> D[Train / Validation / Test Split]
-    D --> E[Feature Engineering & Preprocessing<br/>ColumnTransformer]
-    E --> F[Model Training]
-    F --> F1[Linear Models<br/>Ridge, Lasso, Elastic Net]
-    F --> F2[SVM]
-    F --> F3[Ensemble Models<br/>Random Forest, AdaBoost,<br/>Gradient Boosting]
-    F1 --> G[Hyperparameter Tuning<br/>GridSearchCV]
-    F2 --> G
-    F3 --> G
-    G --> H[Model Evaluation<br/>Held-out Test Set]
-    H --> I[Experiment Tracking<br/>MLflow]
-    I --> J[Best Model Selection]
-    J --> K[Model Serving]
-    K --> L[Flask REST API]
-    L --> M[Web UI<br/>HTML & CSS]
-    M --> N[Containerization<br/>Docker]
-    N --> O[CI/CD Pipeline<br/>GitHub Actions]
-    O --> P[Azure Container Registry]
-    P --> Q[Deployment<br/>Azure Web App]
-    Q --> R[Continuous Deployment<br/>Future Updates]
+flowchart TD
+    A[Project Overview] 
+    
+    A --> B[Data Collection & Preparation]
+    B --> B1[Kaggle Dataset]
+    B1 --> B2[Salary Adjustment to 2025<br/>Using Inflation Rates]
+    B2 --> B3[EDA & Train/Validation/Test Split]
+    
+    B --> C[Feature Engineering & Preprocessing]
+    C --> C1[Categorical Encoding<br/>ColumnTransformer]
+    
+    C --> D[Model Development]
+    D --> D1[Model Training<br/>Linear, SVM, Ensemble Models]
+    D1 --> D2[Hyperparameter Tuning<br/>GridSearchCV]
+    
+    D --> E[Model Evaluation & Tracking]
+    E --> E1[Evaluation on Test Set]
+    E1 --> E2[Experiment Tracking<br/>MLflow]
+    E2 --> E3[Best Model Selection]
+    
+    E --> F[Application Development]
+    F --> F1[Flask REST API]
+    F1 --> F2[Web UI<br/>HTML & CSS]
+    
+    F --> G[Deployment & CI/CD]
+    G --> G1[Docker Containerization]
+    G1 --> G2[GitHub Actions CI/CD]
+    G2 --> G3[Azure Container Registry]
+    G3 --> G4[Azure Web App Deployment]
+    
+    G --> H[Continuous Deployment]
+
 ```
 
 **Data Collection & Preparation**
