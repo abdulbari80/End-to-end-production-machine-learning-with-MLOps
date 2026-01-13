@@ -1,21 +1,53 @@
-## AI/ ML/ Data Professionals' Salary Prediction
+## Salary Prediction
 
-**Data Collection & Preparation** 
+This project showcases a production-grade machine learning system built following MLOps best practices, covering the full lifecycle from data preparation to cloud deployment.
 
-This is an end-to-end machine learning project following MLOps principles. The dataset is chosen from [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries). Though the data is fairly clean, the year of salaries(target variable) ranges from 2019 to 2023. Hence, the salary figures are projected to the current year 2025 with the global/ US annaul inflation rates to keep the salary figures updated. After relevant EDA, the dataset is split among training, validation and test sets. Scikit Learn's Column Transformer class is applied to process categorical data for training model with ML algorithms. 
+**Data Collection & Preparation**
 
-**Model Training & Hyperparameter Tuning** 
+The dataset was sourced from Kaggle. While the data required minimal cleaning, the target variable (salary) spanned multiple years (2019–2023). To maintain real-world relevance, salary values were adjusted to 2025 equivalents using global and U.S. annual inflation rates.
 
-Then, a couple of supervised learning algorithms from different categories, such as linear method (Ridge, Lasso, Elastic Net), SVM and ensemble techniques (Random Forest, AdaBoost, Gradient Boost) etc. are applied to train several models. Besides, Scikit Learn's GridSearchCV class is also applied to tune hyperparameters. 
+Exploratory data analysis (EDA) was conducted to understand feature distributions and relationships. The dataset was then split into training, validation, and test sets. Categorical variables were processed using Scikit-learn’s ColumnTransformer, ensuring consistent preprocessing across all models.
 
-**Model Evaluation & Performance Tracking** 
+**Model Training & Hyperparameter Optimization**
 
-Model performances are evaluated with airmarked test dataset, model, parameters and results are logged with MLflow. The best performing model is singled out for production.
+A diverse set of supervised learning algorithms was trained and evaluated, including:
 
-**App and UI** 
+Linear models: Ridge, Lasso, Elastic Net
 
-Python's Flask API along with html and css files are developed for building web app with cool UI and UX. 
+Support Vector Machine (SVM)
 
-**Deployment** 
+Ensemble methods: Random Forest, AdaBoost, Gradient Boosting
 
-GitHub Action CI/CD is used to build and push docker image to Azure Cotainer Register. Finally, Azure Web App is created and deployed to bring ML to life. Again, continuous development is activated to automate deployment of the upcoming versions. Excited to experience this cool app? Click [Maban](https://ai-salary-prediction-b4ayfph0f5buekgq.australiaeast-01.azurewebsites.net/)
+Model hyperparameters were optimized using GridSearchCV, enabling systematic and fair model comparison.
+
+**Model Evaluation & Experiment Tracking**
+
+All models were evaluated using a held-out test dataset. Experiments—including models, parameters, and performance metrics—were tracked using MLflow, ensuring reproducibility and transparency. The best-performing model was selected for production deployment.
+
+**Application & User Interface**
+
+The trained model was exposed via a Flask-based REST API. A user-friendly web interface was developed using HTML and CSS, allowing end users to interact with the model through a clean and intuitive UI.
+
+**Deployment & CI/CD**
+
+The application was containerized using Docker and deployed via an automated CI/CD pipeline with GitHub Actions. Docker images were pushed to Azure Container Registry, and the application was deployed on Azure Web App. Continuous deployment was enabled to support rapid iteration and future updates.
+
+**Key Skills Demonstrated**
+
+End-to-end machine learning pipeline design
+
+Feature engineering and preprocessing with Scikit-learn
+
+Model selection and hyperparameter tuning
+
+Experiment tracking with MLflow
+
+REST API development with Flask
+
+Containerization with Docker
+
+CI/CD automation using GitHub Actions
+
+Cloud deployment on Microsoft Azure
+
+Excited to experience this cool app? Click [Maban](https://ai-salary-prediction-b4ayfph0f5buekgq.australiaeast-01.azurewebsites.net/)
