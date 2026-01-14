@@ -1,4 +1,4 @@
-## Salary Prediction
+# Salary Prediction 
 
 This project showcases a production-grade machine learning system built following MLOps best practices, covering the full lifecycle from data preparation to cloud deployment.
 
